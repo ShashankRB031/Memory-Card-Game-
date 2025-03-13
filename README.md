@@ -1,6 +1,4 @@
-# Memory Card Game : Skill vs Luck
-
-🃏 Memory Card Game
+🃏 Memory Card Game: Skill vs Luck
 A simple Memory Card Matching Game built with HTML, CSS, and JavaScript.
 Match all the pairs as fast as possible while keeping track of your time and moves!
 
@@ -14,12 +12,12 @@ Match all the pairs as fast as possible while keeping track of your time and mov
 ✅ Celebration Animation on Win 🎉
 
 🎮 How to Play
-Click on a card to reveal its symbol.
-Click on another card to find a matching pair.
-If they match, they stay flipped. If not, they flip back.
-Continue until all pairs are matched!
-The game tracks your time and moves.
-Try to win as fast as possible with fewer moves for a higher rating!
+🔹 Click on a card to reveal its symbol.
+🔹 Click on another card to find a matching pair.
+🔹 If they match, they stay flipped. If not, they flip back.
+🔹 Continue until all pairs are matched!
+🔹 The game tracks your time and moves.
+🔹 Try to win as fast as possible with fewer moves for a higher rating!
 
 🏆 Performance Rating System
 ⭐ 3 Stars – Excellent (Few moves, quick finish)
